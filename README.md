@@ -1,0 +1,2 @@
+# EduMoyTech
+Manage ur Financial
